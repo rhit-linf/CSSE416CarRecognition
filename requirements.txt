@@ -2,3 +2,6 @@ torch
 torchvision
 gradio
 Pillow
+ultralytics
+
+
