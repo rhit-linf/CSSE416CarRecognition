@@ -4,8 +4,9 @@ gradio
 Pillow
 ultralytics
 numpy
-opencv-python
+opencv-python-headless
 streamlit
+
 
 
 
