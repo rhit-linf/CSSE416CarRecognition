@@ -3,5 +3,7 @@ torchvision
 gradio
 Pillow
 ultralytics
+numpy
+
 
 
